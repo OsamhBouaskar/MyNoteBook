@@ -71,5 +71,5 @@
 
 # 🎥 لمحة سريعة
 <p align="center">
-    <source src="assets/video.mp4" type="video/mp4">
+    <source src="video.mp4" type="video/mp4">
 </p>
