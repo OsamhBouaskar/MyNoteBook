@@ -1,18 +1,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,50:FF9800,100:4CAF50&height=200&text=📒%20MyNotebook&fontSize=70&fontColor=ffffff&section=header" alt="MyNotebook banner"/>
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=32&duration=3000&pause=800&center=true&vCenter=true&width=1000&lines=%E2%9C%A8%20تطبيقك%20الشخصي%20لتنظيم%20المشاريع%20والأفكار%20والملاحظات%20%E2%9C%A8" alt="Typing SVG"/>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=32&duration=3000&pause=800&center=true&vCenter=true&width=1000&lines=%E2%9C%A8%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%83%20%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%20%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%20%D9%88%D8%A7%D9%84%D8%A3%D9%81%D9%83%D8%A7%D8%B1%20%D9%88%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA%20%E2%9C%A8&rtl=true" alt="Typing SVG"/>
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/OsamhBouaskar/learing2/releases/download/v1.0.0/default.apk">
-    <img src="https://img.shields.io/badge/⬇️-تحميل%20التطبيق%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white&labelColor=2E7D32&color=81C784&size=40" alt="Download APK"/>
+    <img src="https://img.shields.io/badge/⬇️ تحميل_التطبيق-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white&size=30" alt="Download APK"/>
   </a>
 </p>
 
----
+----
 
 # 📂 الأقسام
 
@@ -74,3 +76,4 @@
     متصفحك لا يدعم عرض الفيديو.
   </video>
 </p>
+
