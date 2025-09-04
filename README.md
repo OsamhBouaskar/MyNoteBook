@@ -71,5 +71,5 @@
 
 # 🎥 لمحة سريعة
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600" alt="App Demo"/>
+    <source src="assets/video.mp4" type="video/mp4">
 </p>
