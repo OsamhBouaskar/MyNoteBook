@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/MyNotebook/releases/download/v1.0.0/app-release.apk">
+  <a href="https://github.com/OsamhBouaskar/learing2/releases/download/v1.0.0/default.apk">
     <img src="https://img.shields.io/badge/⬇️ تحميل_التطبيق-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white&size=30" alt="Download APK"/>
   </a>
 </p>
