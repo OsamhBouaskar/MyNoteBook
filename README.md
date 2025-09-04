@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/⬇️ تحميل_التطبيق-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white&size=30" alt="Download APK"/>
   </a>
 </p>
+
+----
+
 # 📂 الأقسام
 
 ## 📊 إدارة المشاريع
