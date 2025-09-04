@@ -63,7 +63,7 @@
 ---
 
 # 📥 التحميل
-[⬇️ **تحميل التطبيق (APK)**](https://github.com/USERNAME/MyNotebook/releases/download/v1.0.0/app-release.apk)
+[⬇️ **تحميل التطبيق (APK)**](sha256:b990d5149a2c1a04add623b1417464b5a3ea8883dccd2db5f208c2378b32f749)
 
 ---
 
