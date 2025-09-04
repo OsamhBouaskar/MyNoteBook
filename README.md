@@ -69,14 +69,8 @@
 
 ---
 
+
 # 🎥 لمحة سريعة
 <p align="center">
-  <video width="600" controls poster="https://img.icons8.com/color/480/000000/video.png">
-    <source src="video.mp4" type="video/mp4">
-    متصفحك لا يدعم عرض الفيديو.
-  </video>
-</p>
-
-<p align="center">
-  <img src="app_demo.gif" alt="شرح التطبيق" width="600"/>
+  <img src="information.gif" width="600" alt="App Demo"/>
 </p>
