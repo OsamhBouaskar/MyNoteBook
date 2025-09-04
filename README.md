@@ -69,8 +69,8 @@
 
 ---
 
-## 🎥 لمحة سريعة
+## 🎥 لمحة سريعة --
 > ضع صورة متحركة (GIF) أو لقطة شاشة للتطبيق هنا:
 <p align="center">
-  <img src="assets\information.gif" width="500" alt="App Demo"/>
+  <img src="assets/information.gif" width="500" alt="App Demo"/>
 </p>
