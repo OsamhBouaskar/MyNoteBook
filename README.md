@@ -77,3 +77,6 @@
   </video>
 </p>
 
+<p align="center">
+  <img src="app_demo.gif" alt="شرح التطبيق" width="600"/>
+</p>
