@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size:60px; color:#FF5722;">📒 MyNotebook</h1>
+<h1 align="center" style="font-size:90px; color:#FF5722;">📒 MyNotebook</h1>
 
-<p align="center" style="font-size:22px; color:#4CAF50;">
+<p align="center" style="font-size:22px; color:#A8806D;">
 مرحباً بك في <b><span style="color:#FF9800">MyNotebook</span></b> ✨  
 تطبيقك الشخصي لتنظيم <b>المشاريع</b>، <b>الأفكار</b>، و<b>الملاحظات</b>.
 </p>
