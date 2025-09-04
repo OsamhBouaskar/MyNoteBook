@@ -5,6 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=32&duration=3000&pause=800&center=true&vCenter=true&width=1000&lines=%E2%9C%A8%20تطبيقك%20الشخصي%20لتنظيم%20المشاريع%20والأفكار%20والملاحظات%20%E2%9C%A8" alt="Typing SVG"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,50:FF9800,100:4CAF50&height=150&text=📒 MyNotebook&fontSize=50&fontColor=ffffff&section=header" alt="MyNotebook Banner"/>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/OsamhBouaskar/learing2/releases/download/v1.0.0/default.apk">
